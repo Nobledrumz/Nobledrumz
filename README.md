@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nobleman
-- 👀 I’m interested in ...
-- 🌱 I’m a frontend developer...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in development to your taste
+- 🌱 I’m a frontend developer
+- 💞️ I’m looking to collaborate with different technologists
 - 📫 How to reach me:via email: ezenobleman@gmail.com
 
 <!---
